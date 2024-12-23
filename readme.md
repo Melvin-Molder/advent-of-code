@@ -35,7 +35,7 @@ To run the solutions, you'll need:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/advent-of-code.git
+   git clone https://github.com/Melvin-Molder/advent-of-code.git
    cd advent-of-code
    ```
 
